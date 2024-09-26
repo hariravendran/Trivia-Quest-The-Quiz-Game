@@ -9,7 +9,7 @@ Welcome to **Trivia Quest**, a fun and engaging quiz app that tests your knowled
 - **Replayability**: Close and relaunch the app for a new set of questions.
 
 ## Screenshots
-
+![demo](https://github.com/user-attachments/assets/4a90a3a5-8f79-423f-bb69-77c8a0b2d7ff)
 ## Installation
 
 ### Downloading and Installing
